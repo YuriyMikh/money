@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/money/static/css/main.a7d138ac.css",
+    "main.js": "/money/static/js/main.dbe958bb.js",
+    "static/media/foto-dollar-2xtab.png": "/money/static/media/foto-dollar-2xtab.cf6e2957fc772f432371.png",
+    "static/media/foto-dollar-1xtab.png": "/money/static/media/foto-dollar-1xtab.a250c46083136b680807.png",
+    "static/media/foto-dollar-1xrigth.png": "/money/static/media/foto-dollar-1xrigth.82c3bc673f462f6a3c93.png",
+    "static/media/foto-dollar-1xleft.png": "/money/static/media/foto-dollar-1xleft.08cc85bfbaa7d20881d0.png",
+    "static/media/foto-mone-2xleft.png": "/money/static/media/foto-mone-2xleft.df8cc6e1b130b0bf07e3.png",
+    "static/media/foto-mone-2xright.png": "/money/static/media/foto-mone-2xright.d04732429c8846301a59.png",
+    "static/media/foto-mone-2xtableft.png": "/money/static/media/foto-mone-2xtableft.a637a7996b92a4ca1d6f.png",
+    "static/media/foto-mone-2xtabright.png": "/money/static/media/foto-mone-2xtabright.0c977a2b8cb91726d438.png",
+    "static/media/Poppins-Regular.ttf": "/money/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/money/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/money/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/money/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/foto-mone-1xleft.png": "/money/static/media/foto-mone-1xleft.1140926d3bea03cef0d3.png",
+    "static/media/foto-mone-1xright.png": "/money/static/media/foto-mone-1xright.cc55e00b04c9063f42c6.png",
+    "static/media/foto-mone-1xtableft.png": "/money/static/media/foto-mone-1xtableft.26d4dd98cc14eb79e75e.png",
+    "static/media/foto-mone-1xtabright.png": "/money/static/media/foto-mone-1xtabright.8679793d9f9b873e3313.png",
+    "static/media/Diagram-currency-1.png": "/money/static/media/Diagram-currency-1.6f0cffb78f4a518204b7.png",
+    "static/media/sprite.svg": "/money/static/media/sprite.619da252915fc626b43ac6db159e4292.svg",
+    "index.html": "/money/index.html",
+    "main.a7d138ac.css.map": "/money/static/css/main.a7d138ac.css.map",
+    "main.dbe958bb.js.map": "/money/static/js/main.dbe958bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d138ac.css",
+    "static/js/main.dbe958bb.js"
+  ]
+}
